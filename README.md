@@ -1,4 +1,4 @@
-# DevSecOps Playbook - Version 1.3 - December 2022
+# DevSecOps Playbook - Version 1.1 - December 2022
 This repository will help you implement effective DevSecOps practices in your project, regardless of size. We provide explicit guidance and actionable steps to introduce security controls, measure their effectiveness, and demonstrate value for money to your business leaders. Following this playbook will help teams build materially more secure applications, and that in the end, is the intent.
 
 ## Some background
